@@ -1,0 +1,6 @@
+public class Main {
+public static void min(String[] args) {
+
+    System.out.println("Adding some code to the checkpoint3_3");
+  }
+}
